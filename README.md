@@ -1,4 +1,4 @@
-# Radiografía de correos · Normatividad (TEC360 · VPAF)
+# Estrategia de notificaciones · Normatividad (TEC360 · VPAF)
 
 Presentación web (Vite + React + TypeScript + Framer Motion) para la sesión de alineación con Normatividad.
 

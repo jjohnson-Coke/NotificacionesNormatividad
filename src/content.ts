@@ -36,7 +36,7 @@ export const pills: Record<'I' | 'Pl', string> = { I: 'Interno', Pl: 'Plataforma
 /* ---------- Slide 1 · Portada ---------- */
 export const portada = {
   etiqueta: 'SESIÓN DE ALINEACIÓN · NORMATIVIDAD',
-  titulo: 'Radiografía de correos',
+  titulo: 'Estrategia de notificaciones',
   subtitulo: 'De lo que hoy recibe el aprendedor a lo que va a vivir: qué cambia para Normatividad.',
   pie: 'Journeys y Experiencia · VPAF · Noviembre 2026',
 };
