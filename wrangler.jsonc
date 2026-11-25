@@ -1,0 +1,10 @@
+{
+  // Cloudflare Workers con archivos estáticos: publica el HTML único de dist/
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "radiografia-correos-normatividad",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
